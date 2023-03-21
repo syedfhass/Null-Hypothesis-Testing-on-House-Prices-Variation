@@ -1,4 +1,4 @@
-# Null-Hypothesis-testing-for-Recessions-using-GDP-and-Homes-data
+# Null-Hypothesis-testing-for-Recession’s-Effect-on-House-Prices-using-GDP-and-Homes-data
 ## Interpreting the results
 
 T-Test: This is a test for the null hypothesis that 2 independent samples have identical average (expected) values. This test assumes that the populations have identical variances by default.
